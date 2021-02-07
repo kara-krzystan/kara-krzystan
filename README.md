@@ -1,6 +1,6 @@
 ### Hi I'm Kara 👋🏼
 
-A Graphic Artist and Web Designer from Chicago, studying web development at the University of Arizona
+An artist and graphic designer from the Midwest, studying web development at the University of Arizona.
 
 I'm currently...
 - 🦄 A creative computer nerd
