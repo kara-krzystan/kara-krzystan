@@ -1,11 +1,14 @@
 ### Hi I'm Kara 👋🏼
 
-An artist and graphic designer from the Midwest, studying web development at the University of Arizona.
+An experienced graphic designer and illustrator from the Midwest, currently transitioning to a new career in software and web development.
 
-I'm currently...
-- 🦄 A creative computer nerd
-- 💻 A Full-Stack Web Developer in progress
-- 🌞🌵 Enjoying the sunshine
+I recently graduated from the Full Stack Development program at the University of Arizona and am excited to continue learning, collaborating, and creating beautiful, useful things.
+
+- 💻 I'm currently studying: Modern web application development @ Full Stack Open 2021
+- 💡 I’m diving deep into: React.js
+- 🦄 I'm also working on: Custom graphics for my MERN app
+- 🌵 I'm really enjoying: exploring my new home state
+- 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/kara-krzystan)
 
 <!--
 **kara-krzystan/kara-krzystan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
