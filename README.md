@@ -1,6 +1,6 @@
 ### Hi I'm Kara 👋🏼
 
-**An experienced graphic designer and illustrator from the Midwest, transitioning to a new career in software and web development.**
+*An experienced graphic designer and illustrator from the Midwest, transitioning to a new career in software and web development.*
 
 **I recently graduated from the Full Stack Development program at the University of Arizona and am excited to continue learning, collaborating, and creating beautiful, useful things.**
 
