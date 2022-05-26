@@ -4,7 +4,7 @@
 
 **I recently graduated from the Full Stack Development program at the University of Arizona and am excited to continue learning, collaborating, and creating beautiful, useful things.**
 
-- 💻 I'm currently studying: Modern web application development @ Full Stack Open 2021
+- 💻 I'm currently studying: Modern web application development @ Full Stack Open 2022
 - 💡 I’m diving deep into: React.js
 - 🦄 I'm also working on: Custom graphics for my MERN app
 - 🌵 I'm really enjoying: exploring my new home state
